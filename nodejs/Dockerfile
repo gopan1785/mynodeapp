@@ -1,4 +1,4 @@
-### Pull nodejs base image
+# Pull nodejs base image
 FROM qburstdevops/nodejs
 
 # Bundle app source
